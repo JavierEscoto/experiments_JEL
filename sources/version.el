@@ -2,6 +2,6 @@
 #LIBRARY_INFO
 	#VERSION = "0.0"
 	#DATE = "23/11/2018"
-	#AUTHOR = ""
-	#COMMENTS= "No comments"
+	#AUTHOR = "JEL"
+	#COMMENTS= "experimentos presurizados"
 END #LIBRARY_INFO
